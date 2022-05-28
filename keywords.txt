@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For ChatterButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ChatterButton	KEYWORD1
+ChatterINTButton	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+update	KEYWORD2
+didChange	KEYWORD2
+set	KEYWORD2
+getStateDuration	KEYWORD2
+getPreviousStateDuration	KEYWORD2
+setHandler	KEYWORD2
+
+
+#######################################
+CButtonWire	KEYWORD3
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+GND	LITERAL1
+Vdd	LITERAL1
